@@ -14,7 +14,7 @@ g++ -wall -o tic_tac_toe tic_tac_toe.cpp
 ```
 
 # Output 
-```sh
+```
 Enter the size of the board  :3
 0 |____||____||____|
 1 |____||____||____|
