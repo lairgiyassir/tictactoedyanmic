@@ -3,7 +3,7 @@
 
 # How to run the code ? 
 
-```rb
+```
 # path/to/your/file.rb
 class MyClass
 end
