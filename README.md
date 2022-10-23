@@ -3,8 +3,6 @@
 
 # How to run the code ? 
 
-```
-# path/to/your/file.rb
-class MyClass
-end
+```py
+import numpy as np
 ```
